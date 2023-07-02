@@ -1,6 +1,6 @@
 # Hi, I'm IrishRTX! 👋
 
-This is my GitHub profile I guess. 🤷‍♂🤷
+This is my GitHub profile I guess. 🤷
 ## 🛠 Skills (Whilst Not The Best)
 - Python
 - C#
