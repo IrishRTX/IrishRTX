@@ -1,7 +1,7 @@
 # Hi, I'm IrishRTX! 👋
 
 This is my GitHub profile I guess. 🤷
-## 🛠 Skills (Whilst Not The Best)
+## 🛠 Skills
 - Python
 - C#
 ## 🛠 I'd like to learn
@@ -12,7 +12,7 @@ This is my GitHub profile I guess. 🤷
 - CSS
 ## 🚀 About Me
 
-I enjoy playing video games a lot specifically Rainbow Six Siege and I really enjoy anything to do with how computers work and creating your own custom projects.
+I enjoy playing video games a lot specifically Rainbow Six Siege and Valorant I also really enjoy anything to do with how computers work and creating your own custom projects.
 
 
 ## 🔗 Links
